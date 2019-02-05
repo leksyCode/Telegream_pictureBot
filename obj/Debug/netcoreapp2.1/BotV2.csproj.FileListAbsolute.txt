@@ -1,0 +1,11 @@
+C:\Users\nikol\source\repos\BotV2\BotV2\bin\Debug\netcoreapp2.1\BotV2.deps.json
+C:\Users\nikol\source\repos\BotV2\BotV2\bin\Debug\netcoreapp2.1\BotV2.runtimeconfig.json
+C:\Users\nikol\source\repos\BotV2\BotV2\bin\Debug\netcoreapp2.1\BotV2.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BotV2\BotV2\bin\Debug\netcoreapp2.1\BotV2.dll
+C:\Users\nikol\source\repos\BotV2\BotV2\bin\Debug\netcoreapp2.1\BotV2.pdb
+C:\Users\nikol\source\repos\BotV2\BotV2\obj\Debug\netcoreapp2.1\BotV2.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\BotV2\BotV2\obj\Debug\netcoreapp2.1\BotV2.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BotV2\BotV2\obj\Debug\netcoreapp2.1\BotV2.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BotV2\BotV2\obj\Debug\netcoreapp2.1\BotV2.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BotV2\BotV2\obj\Debug\netcoreapp2.1\BotV2.dll
+C:\Users\nikol\source\repos\BotV2\BotV2\obj\Debug\netcoreapp2.1\BotV2.pdb

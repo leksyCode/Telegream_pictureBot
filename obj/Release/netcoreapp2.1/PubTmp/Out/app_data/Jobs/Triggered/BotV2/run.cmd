@@ -1,0 +1,1 @@
+dotnet BotV2.dll %*
